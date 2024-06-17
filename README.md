@@ -37,4 +37,4 @@ The Objective of this project is to perform LED Blinking using Aurdino R3
   - RED colour for 1000 milliseconds and turn off after 1000 milliseconds
   - GREEN colour for 1000 milliseconds and turn off after 1000 milliseconds
   - BLUE colour for 1000 milliseconds and turn off after 1000 milliseconds
-- simulation is shown in given link:
+- simulation is shown in given link: https://www.linkedin.com/posts/activity-7208417853870391296-v1yE?utm_source=share&utm_medium=member_desktop
