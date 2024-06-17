@@ -13,7 +13,7 @@
 
 ## Overview of the Project
 
-### Project: Led Blinking with Aurdino
+### Project: LED BLINKING(RGB) WITH AURDINO
 ![image](https://github.com/Jayaramsanku/CODTECH-Task1/assets/169425840/6d24c9c8-a9e4-4838-84e8-2804fbcd112a)
 
 ### Objective
