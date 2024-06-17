@@ -31,6 +31,10 @@ The Objective of this project is to perform LED Blinking using Aurdino R3
   - LED
   - 220 ohms Resistor
   - Connecting wires
-- Audino UNO R3 board is dumped with Code given in Repository in Thinkercad platform
+- Audino UNO R3 board is dumped with Code given in Repository in Thinkercad platform.
 - Tools are connected as shown in the figure above
+- Code dumped in Aurdino UNO R3 makes the RGB LED to blink
+  - RED colour for 1000 milliseconds and turn off after 1000 milliseconds
+  - GREEN colour for 1000 milliseconds and turn off after 1000 milliseconds
+  - BLUE colour for 1000 milliseconds and turn off after 1000 milliseconds
 - simulation is shown in given link:
